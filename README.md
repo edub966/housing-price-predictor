@@ -85,9 +85,9 @@ jupyter lab notebooks/01_eda.ipynb
 
 ## Next Steps
 
-Better categorical encoding — label encoding is lossy, target encoding would be stronger
-Blending models — averaging XGBoost + Lasso predictions
-More feature engineering — neighborhood median prices, interaction terms
+- Better categorical encoding — label encoding is lossy, target encoding would be stronger
+- Blending models — averaging XGBoost + Lasso predictions
+- More feature engineering — neighborhood median prices, interaction terms
 
 
 ## Stack
